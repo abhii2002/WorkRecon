@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810224990077",
+    "project_id": "workrecon-070",
+    "storage_bucket": "workrecon-070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810224990077:android:f974cad469c62df86bbe14",
+        "android_client_info": {
+          "package_name": "com.blissvine.workrecon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810224990077-2ebguskdmnrcasu9jn3d5ike1thj9hmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCK5JHgpDjj52xbWsUtYMChANkPxQAAfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810224990077-2ebguskdmnrcasu9jn3d5ike1thj9hmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
