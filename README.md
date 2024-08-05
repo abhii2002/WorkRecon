@@ -1,5 +1,6 @@
 # WorkRecon
- Work-Management Application built with firestore database and several external libraries.
+ WorkRecon is a comprehensive work management system designed to streamline and optimize task
+management for individuals and teams.
  
 
 
